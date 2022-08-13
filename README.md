@@ -1,4 +1,4 @@
-# Script em PHP 
+<h6>PHP 7.4</h6>
 
 <h1 align="center"> Script em PHP ELI </h1>
 
